@@ -1,6 +1,3 @@
-Sure, here's a README file for the provided Node.js code:
-
----
 
 # Simple Node.js HTTP Server with File System Interaction
 
